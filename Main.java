@@ -121,7 +121,7 @@ class GameConstants {
             null
         ),
 
-        // 
+        // Smoke Screen: has % chance of evading atk in 1 turn, has a cooldown of 2 turn.
         new Hero(
             "Medea",
             "Shadow Elf",
